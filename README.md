@@ -6,8 +6,11 @@
 Welcome to the Bitnine Coding Challenge Authentication System project! This project was developed as a part of the Bitnine coding challenge in Ethiopia. The project showcases a comprehensive authentication system built using cutting-edge technologies. The frontend is developed using `React` and styled with `Tailwind CSS`, offering a seamless user experience. The backend is powered by `Node.js` and `Express`, with data stored in a `PostgreSQL` database. `Redux` is employed for state management, while `React Router` ensures smooth navigation within the application.
 
 ## Frontend Preview
+![Frontend Preview](https://github.com/habib-gm/bitnine-coding-challenge/blob/master/assets/home.PNG)
+![Frontend Preview](https://github.com/habib-gm/bitnine-coding-challenge/blob/master/assets/sign%20up.PNG)
+![Frontend Preview](https://github.com/habib-gm/bitnine-coding-challenge/blob/master/assets/login%20page.PNG)
+![Frontend Preview](https://github.com/habib-gm/bitnine-coding-challenge/blob/master/assets/forget%20psd.PNG)
 
-![Frontend Preview](link_to_frontend_image_here)
 
 ## Backend Overview
 
